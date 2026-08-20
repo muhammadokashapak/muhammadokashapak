@@ -1,106 +1,103 @@
-<div align="center">
+﻿<div align="center">
 
-# 💫 Hi there, I'm Muhammad Okasha! 👋
-### 🚀 AI & Full-Stack Engineer | Deep Learning & Edge Mobile Systems
-
-<br/>
+# 💫 Muhammad Okasha
+### 🚀 Deep Learning & Edge AI Engineer • Native Mobile & Full-Stack Architect
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FF8800&center=true&vCenter=true&width=650&lines=Edge+AI+%26+Mobile+Neural+Inference+Pipelines;Computer+Vision+%26+Multilingual+Speech+NLP;Full-Stack+Web+%26+Healthcare+Telemedicine;Passionate+about+Open+Source+%26+Innovation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=FF8800&center=true&vCenter=true&width=700&lines=Building+Next-Gen+On-Device+Neural+Inference+Engines;Multilingual+Speech-to-Text+%26+Neural+Machine+Translation;Assistive+AI+Wearables+%26+Computer+Vision+Systems;Full-Stack+Telemedicine+%26+Distributed+Web+Platforms" alt="Typing Banner" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Specialization-Deep%20Learning%20%26%20Edge%20AI-FF8800?style=for-the-badge&logo=python&logoColor=white" alt="Specialization" />
-  <img src="https://img.shields.io/badge/Platform-Android%20%26%20Cloud-2563EB?style=for-the-badge&logo=android&logoColor=white" alt="Platform" />
-  <img src="https://img.shields.io/badge/Focus-Multilingual%20NLP-10B981?style=for-the-badge&logo=openai&logoColor=white" alt="Focus" />
+  <img src="https://img.shields.io/badge/Specialization-Edge_AI_%26_Mobile_Neural_Nets-FF8800?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Platforms-Android_%26_Cloud_Native-2563EB?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Research-Low--Resource_NLP-10B981?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/muhammadokashapak"><img src="https://img.shields.io/github/followers/muhammadokashapak?label=Followers&style=flat-square&logo=github&color=FF8800" alt="GitHub Followers" /></a>
-  <a href="https://github.com/muhammadokashapak"><img src="https://img.shields.io/github/stars/muhammadokashapak?label=Stars&style=flat-square&logo=apachespark&color=10B981" alt="GitHub Stars" /></a>
-  <a href="https://github.com/muhammadokashapak?tab=repositories"><img src="https://img.shields.io/badge/Repositories-20+-2563EB?style=flat-square&logo=git" alt="Repositories" /></a>
-  <a href="mailto:muhammadokashapak@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/muhammad-okasha"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/muhammadokashapak"><img src="https://img.shields.io/github/followers/muhammadokashapak?label=Followers&style=flat-square&logo=github&color=FF8800" /></a>
+  <a href="https://github.com/muhammadokashapak?tab=repositories"><img src="https://img.shields.io/badge/Repositories-20+-2563EB?style=flat-square&logo=git" /></a>
+  <a href="https://linkedin.com/in/muhammad-okasha"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:muhammadokashapak@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
 </div>
 
 ---
 
-## 🌟 About Me
+## ⚡ Executive Summary
 
-- 🔬 **AI & Deep Learning**: Engineering on-device quantized neural inference pipelines (Whisper ONNX STT, MarianMT Seq2Seq NMT, CNNs & LSTMs).
-- 📱 **Mobile & Edge Computing**: Architecting native Android applications with Jetpack Compose, Media3 ExoPlayer, and ONNX Runtime C++.
-- 🏥 **Healthcare & Telemedicine Systems**: Engineered full-stack digital health platforms including MedConnect, MedPrep, and Clinical Management ERPs.
-- 🎓 **Assistive Technology**: Developed **CHASHM-AI** (Smart Assistive Headset for the Visually Impaired) and Low-Resource NLP for regional languages.
-- 💬 **Core Competencies**: On-Device AI • Computer Vision • Multilingual Transformers • Jetpack Compose • FastAPI • Next.js.
+Passionate **AI & Mobile Software Engineer** specializing in on-device deep learning optimization, quantized transformer architectures, computer vision, and high-performance native Android / Full-Stack development. Experienced in deploying quantized neural inference pipelines (Whisper STT, MarianMT NMT, YOLOv8) directly on edge hardware with zero cloud dependencies.
 
----
-
-## 🛠️ Technology Stack & Expertise
-
-### 🤖 Artificial Intelligence & Data Science
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/ONNX_Runtime-005CED?style=for-the-badge&logo=onnx&logoColor=white" alt="ONNX" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit Learn" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-</p>
-
-### 📱 Mobile & System Engineering
-<p align="left">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
-  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white" alt="Compose" />
-  <img src="https://img.shields.io/badge/ExoPlayer_Media3-FF8800?style=for-the-badge&logo=googleplay&logoColor=white" alt="ExoPlayer" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-</p>
-
-### 💻 Full-Stack Web & Cloud
-<p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
+`mermaid
+graph LR
+    subgraph Edge & Mobile AI
+        A[Audio / Video Stream] --> B[Whisper STT Engine]
+        B --> C[MarianMT Translation]
+        C --> D[Real-Time Subtitle Sync]
+    end
+    subgraph Computer Vision & IoT
+        E[Camera Feed] --> F[YOLOv8 Edge Detection]
+        F --> G[Spatial Audio & TTS]
+    end
+    subgraph Full-Stack Platforms
+        H[React / Next.js] --> I[FastAPI / Node Backend]
+        I --> J[(PostgreSQL / MongoDB)]
+    end
+`
 
 ---
 
-## 🏆 Featured Projects & Repositories
+## 🛠️ Technical Competency Matrix
 
-| Project | Category | Tech Stack | Highlights |
-| :--- | :--- | :--- | :--- |
-| **[XortLogix AI Video Player](https://github.com/muhammadokashapak/XortLogix)** | 📱 Edge AI / Android | `Kotlin` `Compose` `ONNX Runtime` | 100% offline multilingual speech recognition & live subtitles with VLC style mobile player. |
-| **[CHASHM-AI Smart Assistive Headset](https://github.com/muhammadokashapak/CHASHM-AI-Smart-Assistive-Headset-FYP-)** | 👓 Computer Vision / IoT | `Python` `YOLOv8` `OpenCV` `TTS` | Assistive smart vision headset for the visually impaired with obstacle avoidance and OCR. |
-| **[Chicken Pox Detection](https://github.com/muhammadokashapak/Chicken-Pox-Detection)** | 🔬 Medical Deep Learning | `TensorFlow` `Keras` `CNN` | Automated dermatological skin lesion diagnostic classification system. |
-| **[Shina Language Detection](https://github.com/muhammadokashapak/Shina-Language-Detection)** | 🗣️ Low-Resource NLP | `PyTorch` `LSTM` `CNN` `FastText` | Deep learning NLP classifier for regional low-resource languages. |
-| **[MedConnect](https://github.com/muhammadokashapak/medconnect)** | 🏥 Telemedicine | `Next.js` `TypeScript` `PostgreSQL` | Healthcare appointment scheduling, doctor consultations, and electronic health records. |
-| **[Digital School Platform](https://github.com/muhammadokashapak/Digital_School)** | 🎓 EdTech | `React` `Node.js` `MongoDB` | Online school dashboard, student attendance, exams, and grading portal. |
-
----
-
-## 📈 Engineering Profile Overview
-
-<div align="center">
-
-| Area | Expertise Summary |
+| Domain | Core Technologies & Frameworks |
 | :--- | :--- |
-| 🧠 **AI / Deep Learning** | Model Quantization (INT8), Seq2Seq Translation, CNNs, LSTMs, Object Detection (YOLO), Whisper STT. |
-| 📱 **Mobile Development** | Modern Native Android with Jetpack Compose, Material Design 3, Room DB, Coroutines & Flow, Media3. |
-| 💻 **Full-Stack Web** | Responsive Single Page Apps, RESTful APIs with FastAPI & Express, Relational & NoSQL Databases. |
-| ⚡ **Performance & Optimization** | On-device Edge AI Inference, Memory Management, Asynchronous Processing, Clean Architecture. |
+| **🧠 Deep Learning & AI** | PyTorch, TensorFlow, Keras, ONNX Runtime (C++/Java), Hugging Face Transformers, Whisper STT, MarianMT, Scikit-Learn |
+| **👁️ Computer Vision & NLP** | OpenCV, YOLOv8, CNNs (ResNet, MobileNet), BiLSTMs, FastText, Tokenizers, Tesseract OCR, TF-IDF |
+| **📱 Native Mobile Systems** | Android Studio, Kotlin, Jetpack Compose, Media3 ExoPlayer, Coroutines, Flow, Room DB, NDK/C++ |
+| **🌐 Full-Stack & APIs** | TypeScript, React.js, Next.js, Node.js, Express, FastAPI, Flask, Tailwind CSS, HTML5/CSS3 |
+| **🗄️ Databases & DevOps** | PostgreSQL, MongoDB, SQLite, Redis, Docker, Git, CI/CD Actions, Linux, Embedded Linux |
+
+---
+
+## 🏆 Featured Project Ecosystem
+
+### 1. 📱 [XortLogix — Offline AI Video Player](https://github.com/muhammadokashapak/XortLogix)
+> **100% Offline Real-Time Multilingual Speech-to-Text & Translation Android Player**
+* **Tech Stack**: Kotlin, Jetpack Compose, ONNX Runtime Mobile, Whisper Quantized STT, MarianMT Neural Translation, Media3 ExoPlayer.
+* **Key Innovations**: Zero-latency on-device live speech recognition and instant bilingual subtitle generation with VLC-inspired mobile UI.
+
+### 2. 👓 [CHASHM-AI — Smart Assistive Vision Headset](https://github.com/muhammadokashapak/CHASHM-AI-Smart-Assistive-Headset-FYP-)
+> **AI-Driven Wearable Vision Assistant for the Visually Impaired (Final Year Project)**
+* **Tech Stack**: Python, YOLOv8, OpenCV, PyTorch Mobile, Raspberry Pi OS, Offline Text-to-Speech (TTS).
+* **Key Innovations**: Real-time obstacle detection, depth estimation, and document reading designed for independence.
+
+### 3. 🔬 [Chicken Pox Diagnostic CNN](https://github.com/muhammadokashapak/Chicken-Pox-Detection)
+> **Deep Learning Automated Dermatological Lesion Classification**
+* **Tech Stack**: TensorFlow, Keras, ResNet50, MobileNetV2, OpenCV, Streamlit.
+* **Key Innovations**: High-accuracy differential diagnosis between Chicken Pox, Measles, and Monkeypox with clinical visualization metrics.
+
+### 4. 🗣️ [Shina Language Low-Resource NLP](https://github.com/muhammadokashapak/Shina-Language-Detection)
+> **Regional Language Identification & Text Classification Pipeline**
+* **Tech Stack**: PyTorch, BiLSTM, 1D-CNN, FastText Tokenizer, NLTK.
+* **Key Innovations**: Curated low-resource dataset and neural architecture resolving classification challenges in regional South Asian languages.
+
+### 5. 🏥 [MedConnect Telemedicine Platform](https://github.com/muhammadokashapak/medconnect)
+> **Full-Stack Virtual Healthcare & EHR Consultation Portal**
+* **Tech Stack**: Next.js, TypeScript, PostgreSQL, Prisma ORM, Tailwind CSS.
+* **Key Innovations**: Real-time doctor scheduling, encrypted patient health records, and telemedicine consultations.
+
+---
+
+## 📈 Engineering Philosophy
+
+<div align="center">
+
+`
+  ┌─────────────────────────────────────────────────────────────┐
+  │  "Efficiency at the edge: empowering users with private,    │
+  │   instant on-device AI without relying on the cloud."      │
+  └─────────────────────────────────────────────────────────────┘
+`
 
 </div>
 
@@ -108,14 +105,14 @@
 
 <div align="center">
 
-### 🤝 Let's Connect & Collaborate!
+### 🤝 Connect & Collaborate
 
 <p align="center">
-  <a href="https://linkedin.com/in/muhammad-okasha"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/muhammadokashapak"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:muhammadokashapak@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/muhammad-okasha"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/muhammadokashapak"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:muhammadokashapak@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-*⭐️ Star any repository you find interesting! • © 2026 [Muhammad Okasha](https://github.com/muhammadokashapak)*
+*⭐️ Feel free to explore my repositories and star projects you find inspiring! • © 2026 Muhammad Okasha*
 
 </div>
